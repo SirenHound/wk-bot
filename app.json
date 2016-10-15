@@ -1,0 +1,16 @@
+{
+  "name": "wk-bot",
+  "description": "An app for the WaniKani Slack group",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
